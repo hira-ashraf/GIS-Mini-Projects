@@ -1,3 +1,4 @@
 # GIS-Mini-Projects
-This repository is a space where I’m documenting my ongoing learning process and experimenting with various concepts. 
-A collection of beginner-friendly GIS projects to learn interactive mapping step by step.
+In this repository, I am documenting my ongoing learning journey in GIS Development. 
+A collection of small, practical mapping projects built step by step using open-source tools.
+The aim is to make GIS concepts easier to understand for beginners through hands-on examples.
