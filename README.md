@@ -4,7 +4,7 @@ A collection of small, practical mapping projects built step by step using open-
 The aim is to make GIS concepts easier to understand for beginners through hands-on examples.
 
 ## 📂 Projects
-Project 1: Interactive Map with Points of Interest (POIs)
+# Project 1: Interactive Map with Points of Interest (POIs)
 
 Built using Leaflet.js
 
@@ -13,8 +13,10 @@ Clicking on any place shows its information popup
 
 (More projects will be added as I progress 🚀)
 
-# 🗺️ Tech Stack
+🗺️ Tech Stack
 
 Leaflet.js – Mapping library
+
 OpenStreetMap – Base map data
+
 HTML, CSS, JavaScript – Project setup
